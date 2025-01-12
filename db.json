@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "lea",
+      "lastName": "name2",
+      "email": "n@n.com",
+      "password": "12345",
+      "address": "address 1 5",
+      "phone": "0548654321"
+    },
+    {
+      "id": 1736714659661,
+      "email": "n@n.co",
+      "password": "12345",
+      "firstName": "dfghjk",
+      "lastName": "fghjk"
+    },
+    {
+      "id": 1736714708777,
+      "email": "n@n.c",
+      "password": "12345"
+    },
+    {
+      "id": 1736715178446,
+      "email": "n@m",
+      "password": "12345"
+    },
+    {
+      "id": 1736715205276,
+      "email": "a@a",
+      "password": "12345"
+    },
+    {
+      "id": 1736716262328,
+      "email": "n@.com",
+      "password": "1234"
+    },
+    {
+      "id": 1736716420048,
+      "email": "n@n.",
+      "password": "12345"
+    },
+    {
+      "id": 1736717165472,
+      "email": "z.6166419@com",
+      "password": "12345",
+      "firstName": "לאה",
+      "lastName": "זלושינסקי"
+    }
+  ],
+  "recipes": [
+    {
+      "id": 1,
+      "title": "פסטה אלפרדו",
+      "description": "פסטה עם רוטב שמנת עשיר",
+      "authorId": 1
+    },
+    {
+      "id": 2,
+      "title": "סופגניות",
+      "description": "ר",
+      "authorId": 1
+    }
+  ]
+}
